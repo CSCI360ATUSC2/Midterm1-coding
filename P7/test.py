@@ -1,5 +1,5 @@
 # DO NOT MODIFY THIS SCRIPT #
-from p11 import a_star_search
+from P7.p7 import a_star_search
 
 if __name__ == "__main__":
     # Terrain types and their day and night costs
