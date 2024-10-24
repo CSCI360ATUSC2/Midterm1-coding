@@ -8,7 +8,7 @@ if __name__ == "__main__":
         'M': (5, 10), # Mountain: 5 during day, 10 during night
         'F': (3, 4),  # Forest: 3 during day, 4 during night
         'W': (float('inf'), float('inf')),  # Water: impassable
-        'T': (0, 0)   # Teleportation point
+        'T': (1, 1)   # Teleportation point
     }
 
     # ===== Subproblem 1 ===== #
